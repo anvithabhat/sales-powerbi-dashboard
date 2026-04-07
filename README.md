@@ -21,7 +21,7 @@ This project analyzes sales data to uncover trends, product performance, and cus
 - **COUNTROWS** → Total Transactions
 
 ## 📸 Dashboard Preview
-![Dashboard](Sales Performance Dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 📊 Key Insights
 - Sales peaked during specific months indicating seasonal trends
